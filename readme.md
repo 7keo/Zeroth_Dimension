@@ -35,6 +35,6 @@
     -nz*0 -> - n  
     - z*0 ->   z  
 
-{ ax, cz } * 0 = {  cx, -az } = { cx, az } / z
+{ ax, cz } * 0 = {  cx, -az } = { ax, cz } / z
 
 { cx, az } / 0 = { -ax,  cz } = { cx, az } * z
