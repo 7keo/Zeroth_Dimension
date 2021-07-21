@@ -36,4 +36,5 @@
     - z*0 ->   z  
 
 { ax, cz } * 0 = {  cx, -az } = { cx, az } / z
+
 { cx, az } / 0 = { -ax,  cz } = { cx, az } * z
